@@ -18,4 +18,4 @@ If the directory does not exist - which is likely - we'll type `sudo mkdir /usr/
 Now after we've done that, we'll open `/etc/default/grub.cfg` and add `drm.edid_firmware=edid/modified_edid.bin` 
 at **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** respectively - then we'll save the document.
 
-Now to execute the Kernel Patch we'll write `sudo grub-mkconfig -o /boot/grub/grub.cfg` into the terminal
+Now to execute the Kernel Patch we'll enter `sudo grub-mkconfig -o /boot/grub/grub.cfg` into the terminal
