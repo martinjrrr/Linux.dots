@@ -13,7 +13,7 @@ Download the EDID File and CD into the directory
 Then we'll use sudo to copy the file to the following directory.
 sudo cp modified_edid.bin **/usr/lib/firmware/edid/**
 
-If the directory does not exist - which is likely - we'll type *sudo mkdir **/usr/lib/firmware/edid/**
+If the directory does not exist - which is likely - we'll type *sudo mkdir /usr/lib/firmware/edid/*
 
 Now after we've done that, we'll open *grub.cfg* which is located in **/etc/default/** and write drm.edid_firmware=edid/modified_edid.bin 
 at line GRUB_CMDLINE_LINUX_DEFAULT= and GRUB_CMDLINE_LINUX= respectively - then we'll save the document.
