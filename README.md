@@ -7,8 +7,7 @@ In the following repository I'm going to explain to my future self how to setup 
 Placeholder:
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/9085edc8-8a07-46fd-9cf8-0c71aa05d8d5)
 
-First we will utilise my / our *modified_edid.bin* 
-We will enter the directory where the downloaded edid.bin is located:
+Download the EDID File and CD into the directory
 
 **cd /home/user/Downloads/**
 Then we'll be copying the EDID to **/usr/lib/firmware/edid/**
