@@ -1,5 +1,5 @@
 # Linux.dots
-
+# FIXING THE EDID
 
 
 
