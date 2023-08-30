@@ -3,7 +3,7 @@
 
 
 
-In the following repository I'm going to explain to my future self how to setup Arch linux and configure it perfectly.
+In the following `README.md` I'm going to explain to my future self how to setup Arch linux and configure it perfectly.
 Placeholder:
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/9085edc8-8a07-46fd-9cf8-0c71aa05d8d5)
 
