@@ -9,7 +9,7 @@ Placeholder:
 
 Download the EDID File and CD into the directory
 
-**cd /home/user/Downloads/**
+**cd ~/Downloads/**
 Then we'll be copying the EDID to **/usr/lib/firmware/edid/**
 sudo cp modified_edid.bin **/usr/lib/firmware/edid/**
 
