@@ -29,7 +29,7 @@ after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 
 _____________________________________________________________________________________
 
-# Configuring Konsole
+# Configuring Konsole and Grub Bootloader
 
 We are now going to Setup an equivalent to OhMyZSH to make our terminal look better
 
@@ -42,6 +42,13 @@ We are now going to Setup an equivalent to OhMyZSH to make our terminal look bet
 Then we will add any Nerdfont to the System https://www.nerdfonts.com/
 So that the Bash config looks good.
 
+`git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes`
+
+`cd Top-5-Bootloader-Themes`
+
+`sudo ./install.sh`
+
+**Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
 # Programs you'll need
