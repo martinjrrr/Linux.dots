@@ -17,7 +17,7 @@ Then we'll use sudo to copy the file to the following directory.
 
 If the directory does not exist - which is likely - we'll type `sudo mkdir /usr/lib/firmware/edid/`
 
-Now after we've done that, we'll open `/etc/default/grub.cfg` and add `drm.edid_firmware=edid/modified_edid.bin` 
+Now after we've done that, we'll open `/etc/default/grub` and add `drm.edid_firmware=edid/modified_edid.bin` 
 at **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** respectively - then we'll save the document.
 
 Now to execute the Kernel Patch we'll enter `sudo grub-mkconfig -o /boot/grub/grub.cfg` into the terminal
