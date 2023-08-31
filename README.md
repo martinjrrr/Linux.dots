@@ -45,8 +45,6 @@ After compilation you'll need to run the following commands in the terminal
 
 **Now Radeon-profile should be working and showing modules like fan control**
 
-_____________________________________________________________________________________
-
 
 `openrgb`
 
