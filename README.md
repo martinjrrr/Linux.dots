@@ -113,7 +113,7 @@ add the line `drivers-alsa` and save the file
 
 `sudo cp alsoft.conf /etc/openal/`
 
-**Start / Restart Minecraft and it should start with a working sound engine**
+**Start / Restart Minecraft and it should have a working sound engine**
 
 _____________________________________________________________________________________
 
