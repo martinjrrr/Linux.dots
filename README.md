@@ -17,9 +17,9 @@ Download the EDID File and CD into the directory
 
 `sudo mkdir /usr/lib/firmware/edid/` in the terminal if the directory does not exist
 
-`kate /etc/default/grub` to open the file and add and add 
+`kate /etc/default/grub` to open the file and add
 
 `drm.edid_firmware=edid/modified_edid.bin` 
-at **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** respectively - then we'll save the document.
+after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** respectively - then we'll save the document.
 
 `sudo grub-mkconfig -o /boot/grub/grub.cfg` in the terminal to apply the kernel patch
