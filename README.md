@@ -41,7 +41,7 @@ After compilation you'll need to run the following commands in the terminal
 
 `systemctl start radeon-profile-daemon.service`
 
-
+**Now `radeon-profile` should be working and showing modules like fan control**
 
 _____________________________________________________________________________________
 
@@ -62,6 +62,6 @@ Before launching we'll need to execute a few commands
 
 `sudo sh -c 'echo "i2c-dev" >> /etc/modules-load.d/i2c.conf'` to load the i2c-dev module at boot
 
-Now OpenRGB should also show RAM Modules
+**Now OpenRGB should also show RAM Modules**
 
 
