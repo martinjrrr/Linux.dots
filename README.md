@@ -11,7 +11,7 @@ If anyone but myself uses this Repository for information I will not be held acc
 
 # Editing the EDID file
 
-To follow this guide you can either download the modified_edid.bin and save it to ~/Downloads/ which may only work for my monitor or follow the step by step guide on how to edit your own EDID file
+To follow this guide you can either download the `modified_edid.bin` and save it to `~/Downloads/` which may only work for my monitor or follow the step by step guide on how to edit your own EDID file
 _____________________________________________________________________________________
 Open a terminal:
 
