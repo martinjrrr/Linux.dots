@@ -11,8 +11,29 @@ If anyone but myself uses this Repository for information I will not be held acc
 
 # First we will be fixing the EDID / AMD RGB Values
 
+`find /sys/devices/pci*/ -name edid` to find the EDID used by your monitor 
 
-Download the EDID File and CD into the directory
+Output should look something like this:
+
+`/sys/devices/pci0000:00/0000:00:03.1/0000:2b:00.0/0000:2c:00.0/0000:2d:00.0/drm/card1/card1-DP-1/edid`
+
+There might be multiple connectors listed like: card1-HDMI-A or card1-DP-1 and so on
+
+You'll need to choose the connector of your monitor, for me it is card1-DP-1
+
+Next I'll cd into the directory where my EDID is located and copy it:
+`cd /sys/devices/pci0000:00/0000:00:03.1/0000:2b:00.0/0000:2c:00.0/0000:2d:00.0/drm/card1/card1-DP-1`
+
+´cp edid ~/Downloads/`
+
+Next you'll need to download wxEDID:
+
+flatpak install https://dl.tingping.se/flatpak/wxedid.flatpakref
+
+open the edid file which is now located in the `~/Downloads/` directory using wxEDID
+
+
+or Download the EDID File and CD into the directory
 
 `cd ~/Downloads/` Then we'll use sudo to copy the file to the following directory.
 
