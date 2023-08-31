@@ -75,7 +75,7 @@ https://gitlab.freedesktop.org/drm/amd/-/issues/476
 
 _____________________________________________________________________________________
 
-# Configuring Konsole and Grub Bootloader
+# Configuring Konsole and Grub Bootloader Menu
 
 We are now going to Setup an equivalent to OhMyZSH to make our terminal look better
 
