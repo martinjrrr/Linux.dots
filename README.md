@@ -26,4 +26,4 @@ after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 
 _____________________________________________________________________________________
 
-# Programs to have the system running well
+# Programs you'll need
