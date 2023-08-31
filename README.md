@@ -105,9 +105,9 @@ You'll need to add the line `drivers-alsa` to `/etc/openal/alsoft.conf`
 
 `sudo mkdir /etc/openal/`  if the directory does not exist
 
-If the file `alsoft.conf` does not exist create it in your ~/Downloads/ directory
+`alsoft.conf` if the file does not exist to create it in your ~/Downloads/ directory
 
-add the line drivers-alsa and save the file
+add the line `drivers-alsa` and save the file
 
 `cd ~/Downloads/`
 
