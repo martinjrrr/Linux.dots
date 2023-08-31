@@ -130,11 +130,13 @@ Then copy the file from downloads to the new directory
 Now type the following lines into the terminal you want to use for the UI to live in:
 
 `spotifyd`
+
 `spt`
 
 If the daemon gives you any issues like playing to streams at once type the following into the terminal to restart the daemon
 
 `killall spotifyd`
+
 `spotifyd`
 
 
