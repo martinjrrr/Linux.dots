@@ -25,3 +25,5 @@ after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 `sudo grub-mkconfig -o /boot/grub/grub.cfg` in the terminal to apply the kernel patch
 
 _____________________________________________________________________________________
+
+# Programs to have the system running well
