@@ -100,9 +100,8 @@ ________________________________________________________________________________
 
 # Fix Minecraft not connecting to the sound engine
 
-You'll need to add the line `drivers-alsa` to
+You'll need to add the line `drivers-alsa` to `/etc/openal/alsoft.conf`
 
-`/etc/openal/alsoft.conf`
 
 `sudo mkdir /etc/openal/`  if the directory does not exist
 
