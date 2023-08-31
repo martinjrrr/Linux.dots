@@ -34,15 +34,13 @@ open the edid file which is now located in the `~/Downloads/` directory using wx
 
 edit it to disable YCbCr support:
 
-    SPF: Supported features -> change value of vsig_format to 0b00
-    CHD: CEA-861 header -> change the value of YCbCr420 and YCbCr444 to 0
-    VSD: Vendor Specific Data Block -> change the value of DC_Y444 to 0
+ SPF: Supported features -> change value of vsig_format to 0b00
+ CHD: CEA-861 header -> change the value of YCbCr420 and YCbCr444 to 0
+ VSD: Vendor Specific Data Block -> change the value of DC_Y444 to 0
 
-Afterwards save the EDID binary and rename it to "modified_edid.bin"
+Afterwards save the EDID binary and rename it to "modified_edid.bin" and save it to ~/Downloads/
 
-
-
-or Download the EDID File and CD into the directory
+Open a Terminal: 
 
 `cd ~/Downloads/` Then we'll use sudo to copy the file to the following directory.
 
