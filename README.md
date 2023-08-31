@@ -24,7 +24,7 @@ You'll need to choose the connector of your monitor, for me it is card1-DP-1
 Next I'll cd into the directory where my EDID is located and copy it:
 `cd /sys/devices/pci0000:00/0000:00:03.1/0000:2b:00.0/0000:2c:00.0/0000:2d:00.0/drm/card1/card1-DP-1`
 
-´cp edid ~/Downloads/`
+`cp edid ~/Downloads/`
 
 Next you'll need to download wxEDID:
 
