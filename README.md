@@ -81,6 +81,8 @@ Click on `Enable the Steam Overlay while in-game`
 
 Click on `Properties` on CS:GO
 
+**Now CS:GO should run perfectly**
+
 In the `General Tab` turn off `Enable the Steam Overlay while in Game`
 
 _____________________________________________________________________________________
