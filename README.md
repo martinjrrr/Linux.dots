@@ -68,6 +68,15 @@ Before launching we'll need to execute a few commands
 
 _____________________________________________________________________________________
 
+# Programs that are nice to have
+
+`ani-cli` anime from the terminal
+`mangal`manga from the terminal
+`speedtest-cli` speedtest from the terminal
+`portmaster-stub-bin`safings portmaster system security software
+
+_____________________________________________________________________________________
+
 
 To run CS:GO among other games correctly on Steam you'll need to follow these steps
 
