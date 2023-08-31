@@ -51,13 +51,15 @@ So that the Bash config looks good.
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
-# Programs you'll need
+# Utilities you'll need
 
 All of these are to be installed using the yay package manager
 
-`radeon-profile-git`
+`mesa-git` FOSS GPU Drivers
 
-`radeon-profile-daemon-git`
+`radeon-profile-git` Radeon Overclocking and Fan Control utility
+
+`radeon-profile-daemon-git` The needed daemon to run the Previous software
 
 After compilation you'll need to run the following commands in the terminal
 
