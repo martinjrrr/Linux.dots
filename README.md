@@ -2,7 +2,7 @@
 
 
 
-In the following `README.md` I'm going to explain to my future self how to setup KDE Arch and configure it so it just works, for this setup I'm choosing KDE Plasma as the Desktop environment because it is the best balance between extremely customizable and easy to use, this might change after the release of KDE Plasma 6.
+In the following `README.md` I'm going to explain to my future self how to setup KDE Arch and configure it so it just works, for this setup I'm choosing KDE Plasma as the DE because it is the best balance between extremely customizable and easy to use, this might change after the release of KDE Plasma 6.
 
 If anyone but myself uses this Repository for information I will not be held accountable for potentially bricking / breaking your systems or installs you have been warned!
 
