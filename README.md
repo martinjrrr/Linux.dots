@@ -115,6 +115,9 @@ After finishing the Download you'll need to run the following commands in the te
 
 `systemctl start radeon-profile-daemon.service`
 
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/2d2f61af-9f64-4e2b-9f79-485c052be315)
+
+
 **Now Radeon-profile should be working and showing modules like fan control**
 
 
