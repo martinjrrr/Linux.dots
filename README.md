@@ -27,3 +27,16 @@ after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 _____________________________________________________________________________________
 
 # Programs you'll need
+
+All of these are to be installed using the yay package manager
+
+`radeon-profile-daemon-git`
+After compilation you'll need to run
+
+`systemctl enable radeon-profile-daemon.service`and 
+
+`systemctl start radeon-profile-daemon.service`
+
+
+
+
