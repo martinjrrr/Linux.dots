@@ -29,6 +29,21 @@ after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 
 _____________________________________________________________________________________
 
+# Configuring Konsole
+
+We are now going to Setup an equivalent to OhMyZSH to make our terminal look better
+
+`git clone https://github.com/christitustech/mybash`
+
+`cd mybash`
+
+`./setup.sh`
+
+
+
+
+_____________________________________________________________________________________
+
 # Programs you'll need
 
 All of these are to be installed using the yay package manager
