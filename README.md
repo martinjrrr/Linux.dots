@@ -2,7 +2,8 @@
 
 
 
-In the following `README.md` I'm going to explain to my future self how to setup Arch linux and configure it perfectly.
+In the following `README.md` I'm going to explain to my future self how to setup KDE Arch and configure it perfectly.
+
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/1466e3f9-71c8-4329-878a-7066783d642f)
 
 
