@@ -34,7 +34,7 @@ flatpak install https://dl.tingping.se/flatpak/wxedid.flatpakref
 open the edid file which is now located in the `~/Downloads/` directory using wxEDID
 
 edit it to disable YCbCr support:
-_____________________________________________________________________________________
+
 
  `SPF: Supported features -> change value of vsig_format to 0b00`
  
