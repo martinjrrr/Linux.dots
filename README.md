@@ -41,7 +41,7 @@ After compilation you'll need to run the following commands in the terminal
 
 `systemctl start radeon-profile-daemon.service`
 
-**Now `radeon-profile` should be working and showing modules like fan control**
+**Now Radeon-profile should be working and showing modules like fan control**
 
 _____________________________________________________________________________________
 
