@@ -62,9 +62,10 @@ Open a Terminal:
 after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 
 `sudo grub-mkconfig -o /boot/grub/grub.cfg` in the terminal to apply the kernel patch
-_____________________________________________________________________________________
 
 **After a reboot the monitor should switch to the correct RGB values upon login**
+
+_____________________________________________________________________________________
 
 Hopefully in the future we wont need to edit our EDID follow this thread on the issue:
 
