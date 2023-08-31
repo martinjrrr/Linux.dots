@@ -98,3 +98,28 @@ In the `General Tab` turn off `Enable the Steam Overlay while in Game`
 
 _____________________________________________________________________________________
 
+# Fix Minecraft not connecting to the sound engine
+
+You'll need to add the line `drivers-alsa` to
+
+`/etc/openal/alsoft.conf`
+
+`sudo mkdir /etc/openal/`  if the directory does not exist
+
+If the file `alsoft.conf` does not exist create it in your ~/Downloads/ directory
+
+add the line drivers-alsa and save the file
+
+`cd ~/Downloads/`
+
+`sudo cp alsoft.conf /etc/openal/`
+
+**Now Minecraft should start with a working sound engine**
+
+
+
+
+
+
+
+
