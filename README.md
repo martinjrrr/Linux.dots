@@ -95,6 +95,8 @@ ________________________________________________________________________________
 
 # Programs that are nice to have
 
+`kgamma5`KDE Systemwide Gamma control
+
 `ani-cli` anime from the terminal
 
 `mangal`manga from the terminal
