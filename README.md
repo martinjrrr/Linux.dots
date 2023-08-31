@@ -87,13 +87,15 @@ We are now going to Setup an equivalent to OhMyZSH to make our terminal look bet
 Then we will add any Nerdfont to the System https://www.nerdfonts.com/
 So that the Bash config looks good.
 
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/24c05729-79fd-4418-9847-e46a737b1c44)
+
+Now we will theme the Bootloader and make it presentable 
+
 `git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes`
 
 `cd Top-5-Bootloader-Themes`
 
 `sudo ./install.sh`
-
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/d191cc95-36ef-49c3-a0ce-56b140bf01d2)
 
 
 **Now we have configured our Bootloader and Konsole**
@@ -115,7 +117,7 @@ After finishing the Download you'll need to run the following commands in the te
 
 `systemctl start radeon-profile-daemon.service`
 
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/2d2f61af-9f64-4e2b-9f79-485c052be315)
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/f0a78723-c402-460a-b140-86470acc19e4)
 
 
 **Now Radeon-profile should be working and showing modules like fan control**
@@ -136,6 +138,8 @@ Before launching we'll need to execute a few commands
 `sudo touch /etc/modules-load.d/i2c.conf &&` 
 
 `sudo sh -c 'echo "i2c-dev" >> /etc/modules-load.d/i2c.conf'` to load the i2c-dev module at boot
+
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/7f3c460d-7f7a-4de9-9d47-2f5c539cf0f6)
 
 
 **Now OpenRGB should also show RAM Modules**
