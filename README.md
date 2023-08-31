@@ -41,8 +41,22 @@ After compilation you'll need to run the following commands in the terminal
 
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/e2160fe0-2476-4614-b509-d02a682ea2f9)
 
+_____________________________________________________________________________________
 
 
+`openrgb`
+
+`i2c-tools`
+
+Before launching we'll need to execute a few commands
+
+`sudo modprobe i2c-dev`
+
+`sudo groupadd --system i2c`
+
+`sudo usermod $USER -aG i2c`
+
+`sudo touch /etc/modules-load.d/i2c.conf && sudo sh -c 'echo "i2c-dev" >> /etc/modules-load.d/i2c.conf'`
 
 
 
