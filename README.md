@@ -19,8 +19,6 @@ Output should look something like this:
 
 `/sys/devices/pci0000:00/0000:00:03.1/0000:2b:00.0/0000:2c:00.0/0000:2d:00.0/drm/card1/card1-DP-1/edid`
 
-There might be multiple connectors listed like: card1-HDMI-A or card1-DP-1 and so on
-
 You'll need to choose the connector of your monitor, for me it is card1-DP-1
 
 Next I'll cd into the directory where my EDID is located and copy it:
