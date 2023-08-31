@@ -115,7 +115,7 @@ add the line `drivers-alsa` and save the file
 
 **Now Minecraft should start with a working sound engine**
 
-
+_____________________________________________________________________________________
 
 
 
