@@ -6,7 +6,7 @@ In the following `README.md` I'm going to explain to my future self how to setup
 Placeholder:
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/a30f2fb4-e60a-46a6-9899-ae976429bf53)
 
-# First we will be fixing the EDID 
+# First we will be fixing the EDID / AMD RGB Values
 
 
 Download the EDID File and CD into the directory
