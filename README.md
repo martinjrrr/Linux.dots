@@ -29,6 +29,10 @@ after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 
 **After a reboot the monitor should switch to the correct RGB values upon login**
 
+Hopefully in the future we wont need to edit our EDID follow this thread on the issue:
+
+https://gitlab.freedesktop.org/drm/amd/-/issues/476
+
 _____________________________________________________________________________________
 
 # Configuring Konsole and Grub Bootloader
