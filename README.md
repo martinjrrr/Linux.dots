@@ -3,7 +3,7 @@
 
 
 In the following `README.md` I'm going to explain to my future self how to setup Arch linux and configure it perfectly.
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/a30f2fb4-e60a-46a6-9899-ae976429bf53)
+
 
 # First we will be fixing the EDID / AMD RGB Values
 
@@ -39,7 +39,7 @@ After compilation you'll need to run the following commands in the terminal
 
 `systemctl start radeon-profile-daemon.service`
 
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/e2160fe0-2476-4614-b509-d02a682ea2f9)
+
 
 _____________________________________________________________________________________
 
