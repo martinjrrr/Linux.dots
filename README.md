@@ -4,7 +4,7 @@
 
 In the following `README.md` I'm going to explain to my future self how to setup KDE Arch and configure it so it just works
 
-If anyone but myself uses this Repository for information I will not be held accountable for potentially bricking / breaking systems or installs you have been warned!
+If anyone but myself uses this Repository for information I will not be held accountable for potentially bricking / breaking your systems or installs you have been warned!
 
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/1466e3f9-71c8-4329-878a-7066783d642f)
 
