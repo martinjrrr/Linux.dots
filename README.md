@@ -61,7 +61,7 @@ All of these are to be installed using the yay package manager
 
 `radeon-profile-daemon-git` The needed daemon to run the Previous software
 
-After compilation you'll need to run the following commands in the terminal
+After finishing the Download you'll need to run the following commands in the terminal
 
 `systemctl enable radeon-profile-daemon.service &&`
 
