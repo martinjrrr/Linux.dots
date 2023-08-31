@@ -40,6 +40,9 @@ After compilation you'll need to run the following commands in the terminal
 
 `systemctl start radeon-profile-daemon.service`
 
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/74dbccac-7ea5-4387-aa7b-ecae3f4654f0)
+
+
 
 
 
