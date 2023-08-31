@@ -139,6 +139,7 @@ If the daemon gives you any issues like playing to streams at once type the foll
 
 `spotifyd`
 
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/8448e22a-c682-43a9-b640-479a1dd62403)
 
 
 _____________________________________________________________________________________
