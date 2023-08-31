@@ -93,6 +93,9 @@ So that the Bash config looks good.
 
 `sudo ./install.sh`
 
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/d191cc95-36ef-49c3-a0ce-56b140bf01d2)
+
+
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
