@@ -148,6 +148,10 @@ ________________________________________________________________________________
 
 `portmaster-stub-bin` safings portmaster system security software
 
+`Discovery` KDE Plasma Store
+
+`Obsidian` FOSS Notetaking App
+
 
 _____________________________________________________________________________________
 
