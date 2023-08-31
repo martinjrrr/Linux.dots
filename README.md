@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 To run CS:GO among other games correctly on Steam you'll need to follow these steps
 
-In the Top Left of click on `Steam`
+In the Top Left click on `Steam`
 Click on `Settings`
 
 Click on `In Game`
