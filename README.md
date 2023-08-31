@@ -11,6 +11,8 @@ If anyone but myself uses this Repository for information I will not be held acc
 
 # First we will be fixing the EDID / AMD RGB Values
 
+To follow this guide you can either download the modified_edid.bin and save it to ~/Downloads/ which may only work for my monitor or follow the step by step guide on how to edit your own EDID file
+
 `find /sys/devices/pci*/ -name edid` to find the EDID used by your monitor 
 
 Output should look something like this:
