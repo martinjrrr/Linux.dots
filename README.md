@@ -71,8 +71,11 @@ ________________________________________________________________________________
 # Programs that are nice to have
 
 `ani-cli` anime from the terminal
+
 `mangal`manga from the terminal
+
 `speedtest-cli` speedtest from the terminal
+
 `portmaster-stub-bin`safings portmaster system security software
 
 
