@@ -55,7 +55,7 @@ Open a Terminal:
 
 `sudo cp modified_edid.bin /usr/lib/firmware/edid/`
 
-`sudo mkdir /usr/lib/firmware/edid/` in the terminal if the directory does not exist
+`sudo mkdir /usr/lib/firmware/edid/` if the directory does not exist
 
 `kate /etc/default/grub` to open the file and add
 
