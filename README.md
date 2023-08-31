@@ -101,6 +101,23 @@ Now we will theme the Bootloader and make it presentable
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
+# Spotify-Premium from your Terminal
+
+Follow the instructions below starting with installing the necessary packages using yay
+
+`spotify-tui`
+
+When spotify-tui is installed you will need to run it by writing `spt` into your terminal of choice
+
+spt will then ask you for your spotify `Client ID`and `Client Secret` which you'll have to get from the spotify developer dashboard for which there are many guides on how to setup an application and get your ID + Secret respectively
+
+Once you've entered both the Client ID and Client secret all should be working and you'll see a User Interface pop up
+
+
+
+
+_____________________________________________________________________________________
+
 # Utilities you'll need
 
 All of these are to be installed using the yay package manager
