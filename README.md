@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 Open a Terminal: 
 
-`cd ~/Downloads/` Then we'll use sudo to copy the file to the following directory.
+`cd ~/Downloads/` Then we'll use super user do (sudo) to copy the file to the following directory.
 
 `sudo cp modified_edid.bin /usr/lib/firmware/edid/`
 
