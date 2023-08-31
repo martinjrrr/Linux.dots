@@ -39,8 +39,8 @@ We are now going to Setup an equivalent to OhMyZSH to make our terminal look bet
 
 `./setup.sh`
 
-
-
+Then we will add any Nerdfont to the System https://www.nerdfonts.com/
+So that the Bash config looks good.
 
 _____________________________________________________________________________________
 
@@ -77,6 +77,7 @@ Before launching we'll need to execute a few commands
 
 `sudo sh -c 'echo "i2c-dev" >> /etc/modules-load.d/i2c.conf'` to load the i2c-dev module at boot
 
+
 **Now OpenRGB should also show RAM Modules**
 
 _____________________________________________________________________________________
@@ -109,6 +110,7 @@ Click on `Properties` on CS:GO
 
 In the `General Tab` turn off `Enable the Steam Overlay while in Game`
 
+
 **Now CS:GO should run perfectly**
 
 _____________________________________________________________________________________
@@ -127,6 +129,7 @@ add the line `drivers-alsa` and save the file
 `cd ~/Downloads/`
 
 `sudo cp alsoft.conf /etc/openal/`
+
 
 **Start / Restart Minecraft and it should have a working sound engine**
 
