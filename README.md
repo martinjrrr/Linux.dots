@@ -66,4 +66,19 @@ Before launching we'll need to execute a few commands
 
 **Now OpenRGB should also show RAM Modules**
 
+_____________________________________________________________________________________
+
+
+To run CS:GO among other games correctly on Steam you'll need to follow these steps
+
+Open `Settings`
+
+Click on `In Game`
+
+Click on `Enable the Steam Overlay while in-game`
+
+
+Click on `Properties` on CS:GO
+
+In the `General Tab` click `Enable the Steam Overlay while in Game`
 
