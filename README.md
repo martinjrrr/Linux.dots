@@ -60,5 +60,6 @@ Before launching we'll need to execute a few commands
 
 `sudo sh -c 'echo "i2c-dev" >> /etc/modules-load.d/i2c.conf'` to load the i2c-dev module at boot
 
+Now OpenRGB should also show RAM Modules
 
 
