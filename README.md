@@ -33,7 +33,7 @@ All of these are to be installed using the yay package manager
 `radeon-profile-daemon-git`
 After compilation you'll need to run the following commands in the terminal
 
-`systemctl enable radeon-profile-daemon.service %%`
+`systemctl enable radeon-profile-daemon.service &&`
 
 `systemctl start radeon-profile-daemon.service`
 
