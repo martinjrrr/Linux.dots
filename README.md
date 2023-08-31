@@ -80,5 +80,5 @@ Click on `Enable the Steam Overlay while in-game`
 
 Click on `Properties` on CS:GO
 
-In the `General Tab` click `Enable the Steam Overlay while in Game`
+In the `General Tab` turn off `Enable the Steam Overlay while in Game`
 
