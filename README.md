@@ -79,6 +79,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
+# Fix Steams CS:GO Crashes
 
 To run CS:GO among other games correctly on Steam you'll need to follow these steps
 
