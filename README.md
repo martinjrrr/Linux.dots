@@ -192,6 +192,14 @@ ________________________________________________________________________________
 
 # Programs that are nice to have
 
+`pamac`
+
+`kate`
+
+`vscodium`
+
+`thunderbird`
+
 `kgamma5`KDE Systemwide Gamma control
 
 `ani-cli` anime from the terminal
