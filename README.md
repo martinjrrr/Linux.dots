@@ -210,7 +210,7 @@ ________________________________________________________________________________
 
 `portmaster-stub-bin` safings portmaster system security software
 
-`Discovery` KDE Plasma Store
+`Discover` + `packagekit-qt5` KDE Discover store
 
 `Obsidian` FOSS Notetaking App
 
