@@ -10,6 +10,29 @@ ________________________________________________________________________________
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/1466e3f9-71c8-4329-878a-7066783d642f)
 _____________________________________________________________________________________
 
+Installing AUR packages:
+
+To install an AUR package you write:
+
+`git clone https://aur.archlinux.org/brave-nightly-bin.git`
+
+`cd brave-nightly-bin`
+
+`kate PKGBUILD`
+
+After reading and verifying that the packages are secure enter:
+
+`makepkg'
+
+`ls`
+
+sudo pacman -U brave-nightly-bin-xx.x.x-x-x86_64.pkg.tar.zst
+
+agree to the prompt asking to install with `Y`
+
+_____________________________________________________________________________________
+
+
 # Editing the EDID file
 
 To follow this guide you can either download the `modified_edid.bin` and save it to `~/Downloads/` which may only work for my monitor or follow the step by step guide on how to edit your own EDID file
