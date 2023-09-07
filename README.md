@@ -30,6 +30,11 @@ sudo pacman -U brave-nightly-bin-xx.x.x-x-x86_64.pkg.tar.zst
 
 agree to the prompt asking to install with `Y`
 
+to build packages faster open `/etc/makepkg.conf` 
+and edit the line which says `#MAKEFLAGS="-j4"
+enter the amount of threads you want to use for building packages instead of 4
+to improve the build time.
+
 _____________________________________________________________________________________
 
 
