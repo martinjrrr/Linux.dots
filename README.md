@@ -24,7 +24,7 @@ From time to time you can also clear the orphaned packages from your system by r
  
 _____________________________________________________________________________________
 
-Installing AUR packages:
+# Installing AUR packages without an AUR helper
 
 To install an AUR package you write:
 
