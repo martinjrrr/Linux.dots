@@ -36,7 +36,7 @@ To install an AUR package you write:
 
 After reading and verifying that the packages are secure enter:
 
-`makepkg'or to finish the install right away enter `makepkg -sri`
+`makepkg` or to finish the install right away enter `makepkg -sri`
 
 `ls`
 
