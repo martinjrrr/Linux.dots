@@ -132,8 +132,8 @@ ________________________________________________________________________________
 
 # Navigating the Linux filesystem using `cd` `ls` and other commands in the terminal 
 
-[This Article may be helpful when trying to get a general understanding of the linux file system](https://www.redhat.com/sysadmin/navigating-linux-filesystem)
-[This Article may give some insight into navigating the file system using ls](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
+[Guide by Redhat on basic navigation](https://www.redhat.com/sysadmin/navigating-linux-filesystem)
+[More specific guide for using ls](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
 
 
 
