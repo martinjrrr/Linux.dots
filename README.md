@@ -268,7 +268,6 @@ All of these are to be installed using the yay package manager
 After finishing the Download you'll need to run the following commands in the terminal
 
     systemctl enable radeon-profile-daemon.service &&
-
     systemctl start radeon-profile-daemon.service
 
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/f0a78723-c402-460a-b140-86470acc19e4)
