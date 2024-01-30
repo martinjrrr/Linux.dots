@@ -130,7 +130,7 @@ Now we will theme the Bootloader and make it presentable
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
-# Navigating the Linux filesystem using commands the commands `ls` and `tree`
+# Navigating the Linux filesystem using commands the command command `ls` (list)
 [This Article may give some insight](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
 
 Information that has been accumulated trough this article:
@@ -174,7 +174,19 @@ The very first character represents the file type. It will be one of:
 
 `ls -l -R` using the -R (recursive) flag lists all files in each subdirectory
 
-`ls -n` to using the -n flag lists the user ID instead of the user name
+`ls -n` using the -n flag lists the user ID instead of the user name
+
+`ls -X -1` using the -X -1 flags lists the files by extension type in alphabetical order, directories will be listed first
+
+`ls -l -h -S` using the flags -l (list) -h (human-readable) and the -S flag will sort the files by size. 
+
+`ls -l -t` using the flag -t will sort files by when they were last modified
+
+`ls -l -h -S -r` using the -r flag will reverse any sort orders 
+
+`ls -t | head -1` to get the newest file in the directory
+
+`ls -t |tail -1` to get the oldest file in the directory
 
 _____________________________________________________________________________________
 
