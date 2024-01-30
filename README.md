@@ -170,7 +170,7 @@ The very first character represents the file type. It will be one of:
 
 `ls -l -a` using the -a flag all files including hidden files will be shown
 
-`ls -l -A` using the -a flag almost all files will be shown, omitting . and .. entries from your list, resulting in an overall cleaner interface
+`ls -l -A` using the -a flag almost all files will be shown, omitting . and .. entries from your list, resulting in an overall more legible window
 
 _____________________________________________________________________________________
 
