@@ -21,6 +21,7 @@ To update your flatpaks you'd need to put the command: `sudo flatpak update` int
 
 From time to time you can also clear the orphaned packages from your system by running `pacman -Qtdq | pacman -Rns` as the root user
  
+_____________________________________________________________________________________
 
 Installing AUR packages:
 
