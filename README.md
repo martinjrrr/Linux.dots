@@ -205,7 +205,7 @@ Next up we are going to take a look at the make directory command
 
 `sudo chown -R user /home/user/Documents/exampledir/*` is what we'll use if we want to take ownership of the folder exampledir and all sub files and folders
 
-`sudo chown -R user:user /home/user/Documents/exampledir` if a folder and subfolders are owned by root
+`sudo chown -R user:user /home/user` if any of the user directories are owned by root
 
 _____________________________________________________________________________________
 
