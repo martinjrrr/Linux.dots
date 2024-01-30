@@ -130,7 +130,7 @@ Now we will theme the Bootloader and make it presentable
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
-# Navigating the Linux filesystem using commands the command command `ls` also known as list
+# Navigating the Linux filesystem using `ls` also known as list in the terminal 
 [This Article may give some insight](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
 
 Information that has been accumulated trough this article:
