@@ -183,7 +183,7 @@ The very first character represents the file type. It will be one of:
     p: A named pipe.
     s: A socket.
 
-More LS Commands and their flags:
+## More LS Commands and their flags:
 
 | ls - flag | what they are for |
 | --- | --- |
