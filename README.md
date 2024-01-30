@@ -146,6 +146,8 @@ Information that has been accumulated trough this article:
 `ls (character)?` to list any file with the selected single character
 
 `ls *.png` to list any files with the selected file format, in this case the .png format
+
+`ls --hide=*.png` to hide all files with the given file extension
 _____________________________________________________________________________________
 
 
