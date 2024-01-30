@@ -53,6 +53,7 @@ Output should look something like this:
 You'll need to choose the connector of your monitor, for me it is card1-DP-1
 
 Next I'll cd into the directory where my EDID is located and copy it:
+
 `cd /sys/devices/pci0000:00/0000:00:03.1/0000:2b:00.0/0000:2c:00.0/0000:2d:00.0/drm/card1/card1-DP-1`
 
 `cp edid ~/Downloads/`
@@ -71,6 +72,7 @@ edit it to disable YCbCr support:
  `CHD: CEA-861 header -> change the value of YCbCr420 and YCbCr444 to 0`
  
  `VSD: Vendor Specific Data Block -> change the value of DC_Y444 to 0`
+ 
 
 Afterwards save the EDID binary and rename it to "modified_edid.bin" and save it to ~/Downloads/
 
