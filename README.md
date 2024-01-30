@@ -303,49 +303,18 @@ ________________________________________________________________________________
 # Programs that are nice to have
 
 `pamac`
-
 `kate`
-
 `vscodium`
-
 `thunderbird`
-
 `kgamma5`KDE Systemwide Gamma control
-
 `ani-cli` anime from the terminal
-
 `mangal`manga from the terminal
-
 `speedtest-cli` speedtest from the terminal
-
 `portmaster-stub-bin` safings portmaster system security software
-
 `Discover` + `packagekit-qt5` KDE Discover store
-
 `Obsidian` FOSS Notetaking App
-
 `clam AV` Linux antivirus CLI
 
-
-_____________________________________________________________________________________
-
-# Fix Steams CS:GO Crashes
-
-To run CS:GO among other games correctly on Steam you'll need to follow these steps
-
-In the Top Left then click on `Steam`
-Click on `Settings`
-
-Click on `In Game`
-
-Click on `Enable the Steam Overlay while in-game`
-
-Click on `Properties` on CS:GO
-
-In the `General Tab` turn off `Enable the Steam Overlay while in Game`
-
-
-**Now CS:GO should run perfectly**
 
 _____________________________________________________________________________________
 
