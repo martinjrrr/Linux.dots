@@ -131,8 +131,13 @@ Now we will theme the Bootloader and make it presentable
 _____________________________________________________________________________________
 
 # Navigating the Linux filesystem using commands the commands `ls` and `tree`
-[Navigate to this article to find out how](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
+[This Article may give some insight](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
 
+Information that has been accumulated trough this article:
+
+`ls` to list the current directories contents
+`ls -(insert number of rows)` to change the number of rows shown when listing the directory
+`ls (insert directory name) to list a certain directory
 _____________________________________________________________________________________
 
 
