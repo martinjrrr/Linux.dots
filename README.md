@@ -130,6 +130,12 @@ Now we will theme the Bootloader and make it presentable
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
+# Navigating the Linux filesystem using commands the commands `ls` and `tree`
+[Navigate to this article to find out how](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
+
+_____________________________________________________________________________________
+
+
 # Spotify-Premium from your Terminal
 
 Follow the instructions below starting with installing the necessary packages using yay
