@@ -163,14 +163,10 @@ LS Commands | What they do|
 | `ls -(insert number of rows)` | to change the number of rows shown when listing the directory |
 | `ls (insert directory name)` | to list a certain directory |
 | `ls (characters)*` | to list any files with the selected string of characters | 
-
-`ls (character)?` to list any files with the selected single character
-
-`ls *.png` to list any files with the selected file format, in this case the .png format
-
-`ls --hide=*.png` to hide all files with the given file extension
-
-`ls -l` is the so called: "long listing" option which gives you more details on each file
+| `ls (character)?` | to list any files with the selected single character |
+| `ls *.png` | to list any files with the selected file format, in this case the .png format |
+| `ls --hide=*.png` | to hide all files with the given file extension |
+| `ls -l` | is the so called: "long listing" option which gives you more details on each file |
 
 The long listing lists as the name implies a long list of information, in this case it is the file type,
 which I'll describe shortly, the user, the group the file size, date the file was last edited with month, date, exact time to the minute and year listed respectfully.
@@ -187,27 +183,21 @@ The very first character represents the file type. It will be one of:
     p: A named pipe.
     s: A socket.
 
-`ls -l -h` using the -h flag ls displays the filesize in human-readable sizes, converting kilobites to mb
+More LS Commands and their flags:
 
-`ls -l -a` using the -a flag all files including hidden files will be shown
-
-`ls -l -A` using the -a flag almost all files will be shown, omitting . and .. entries from your list, resulting in an overall more legible window
-
-`ls -l -R` using the -R (recursive) flag lists all files in each subdirectory
-
-`ls -n` using the -n flag lists the user ID instead of the user name
-
-`ls -X -1` using the -X -1 flags lists the files by extension type in alphabetical order, directories will be listed first
-
-`ls -l -h -S` using the flags -l (list) -h (human-readable) and the -S flag will sort the files by size. 
-
-`ls -l -t` using the flag -t will sort files by when they were last modified
-
-`ls -l -h -S -r` using the -r flag will reverse any sort orders 
-
-`ls -t | head -1` to get the newest file in the directory
-
-`ls -t |tail -1` to get the oldest file in the directory
+| ls - flags | what they are for |
+| --- | --- |
+| `ls -l -h` | using the -h flag ls displays the filesize in human-readable sizes, converting kilobites to mb |
+| `ls -l -a` | using the -a flag all files including hidden files will be shown |
+| `ls -l -A` | using the -a flag almost all files will be shown, omitting . and .. entries from your list, resulting in an overall more legible window |
+| `ls -l -R` | using the -R (recursive) flag lists all files in each subdirectory |
+| `ls -n` | using the -n flag lists the user ID instead of the user name |
+| `ls -X -1` | using the -X -1 flags lists the files by extension type in alphabetical order, directories will be listed first |
+| `ls -l -h -S` | using the flags -l (list) -h (human-readable) and the -S flag will sort the files by size. |
+|`ls -l -t` | using the flag -t will sort files by when they were last modified |
+| `ls -l -h -S -r` | using the -r flag will reverse any sort orders |
+| `ls -t | head -1` | to get the newest file in the directory |
+| `ls -t |tail -1` | to get the oldest file in the directory |
 
 Next up we are going to take a look at the make directory command
 
