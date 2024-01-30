@@ -130,7 +130,7 @@ Now we will theme the Bootloader and make it presentable
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
-# Navigating the Linux filesystem using `cd` `ls` and other commands in the terminal 
+# Navigating the Linux filesystem and folders using `cd` `ls` and other commands in the terminal 
 
 [Guide by Redhat on basic navigation](https://www.redhat.com/sysadmin/navigating-linux-filesystem)
 
