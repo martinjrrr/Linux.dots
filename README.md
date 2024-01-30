@@ -306,14 +306,14 @@ ________________________________________________________________________________
 `kate`
 `vscodium`
 `thunderbird`
-`kgamma5`KDE Systemwide Gamma control
-`ani-cli` anime from the terminal
-`mangal`manga from the terminal
-`speedtest-cli` speedtest from the terminal
-`portmaster-stub-bin` safings portmaster system security software
-`Discover` + `packagekit-qt5` KDE Discover store
-`Obsidian` FOSS Notetaking App
-`clam AV` Linux antivirus CLI
+`kgamma5`
+`ani-cli` 
+`mangal`
+`speedtest-cli` 
+`portmaster-stub-bin` 
+`Discover` + `packagekit-qt5` 
+`Obsidian` 
+`clam AV` 
 
 
 _____________________________________________________________________________________
