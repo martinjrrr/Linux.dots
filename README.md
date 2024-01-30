@@ -14,6 +14,7 @@ ________________________________________________________________________________
 
 The main issue with arch is that it updates on the bleeding edge, the operating system is in constant need of updates, otherwise it might break and not work anymore.
 Arch is often referred to as an unstable operating system, I personally do not think that this is entirely true and you just need to be able to maintain your own operating system.
+You should update your system at least once a week to prevent any issues from arising 
 
 Use either the `yay` or `sudo pacman -Syu` command to update your entire system and all packages except flatpaks
 
