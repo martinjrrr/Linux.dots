@@ -166,6 +166,10 @@ The very first character represents the file type. It will be one of:
     p: A named pipe.
     s: A socket.
 
+`ls -l -h` using the -h flag ls displays the filesize in human-readable sizes, converting kilobites to mb
+
+`ls -l -a` using the -a flag all files including hidden files will be shown
+
 _____________________________________________________________________________________
 
 
