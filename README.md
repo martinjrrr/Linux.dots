@@ -136,6 +136,10 @@ ________________________________________________________________________________
 
 [More specific guide for using ls](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
 
+`cd /home/user/Documents/` to navigate into the Documents folder located in the users home directory
+
+`cd ~` to navigate back to your home directory
+
 
 
 `ls` to list the current directories contents
@@ -190,6 +194,18 @@ The very first character represents the file type. It will be one of:
 `ls -t | head -1` to get the newest file in the directory
 
 `ls -t |tail -1` to get the oldest file in the directory
+
+Next up we are going to take a look at the make directory command
+
+`mkdir [OPTION] [DIRECTORY]` this is the commands syntax
+
+`mkdir /home/user/Documents/exampledir` to make a new directory called 'exampledir' in the Documents folder of our Linux system
+
+`sudo makedir` to make a directory in a folder that needs super user permissions
+
+`sudo chown -R user /home/user/Documents/exampledir/*` is what we'll use if we want to take ownership of the folder exampledir and all sub files and folders
+
+`sudo chown -R user:user /home/user/Documents/exampledir` if a folder and subfolders are owned by root
 
 _____________________________________________________________________________________
 
