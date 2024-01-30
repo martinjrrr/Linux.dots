@@ -133,6 +133,7 @@ ________________________________________________________________________________
 # Navigating the Linux filesystem using `cd` `ls` and other commands in the terminal 
 
 [Guide by Redhat on basic navigation](https://www.redhat.com/sysadmin/navigating-linux-filesystem)
+
 [More specific guide for using ls](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
 
 
