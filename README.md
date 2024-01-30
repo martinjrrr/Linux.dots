@@ -157,7 +157,7 @@ ________________________________________________________________________________
 `cd ~` to navigate back to your home directory
 
 
-LS Commands | What they do|
+| ls -flag | what they are for |
 | --- | --- |
 | `ls` | to list the current directories contents |
 | `ls -(insert number of rows)` | to change the number of rows shown when listing the directory |
