@@ -90,9 +90,7 @@ edit it to disable YCbCr support:
 
 Afterwards save the EDID binary and rename it to "modified_edid.bin" and save it to ~/Downloads/
 
-_____________________________________________________________________________________
-
-# Applying the EDID file to the kernel
+## Applying the EDID file to the kernel
 
 Open a Terminal: 
 
@@ -110,12 +108,6 @@ after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 `sudo grub-mkconfig -o /boot/grub/grub.cfg` in the terminal to apply the kernel patch
 
 **After a reboot the monitor should switch to the correct RGB values upon login**
-
-_____________________________________________________________________________________
-
-Hopefully in the future we wont need to edit our EDID follow this thread on the issue:
-
-https://gitlab.freedesktop.org/drm/amd/-/issues/476
 
 _____________________________________________________________________________________
 
@@ -183,7 +175,7 @@ The very first character represents the file type. It will be one of:
     p: A named pipe.
     s: A socket.
 
-## More LS Commands and their flags:
+### More LS Commands and their flags:
 
 | ls - flag | what they are for |
 | --- | --- |
