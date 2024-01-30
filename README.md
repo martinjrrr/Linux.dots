@@ -144,6 +144,8 @@ Information that has been accumulated trough this article:
 `ls (characters)*` to list any file with the selected string of characters
 
 `ls (character)?` to list any file with the selected single character
+
+`ls *.png` to list any files with the selected file format, in this case the .png format
 _____________________________________________________________________________________
 
 
