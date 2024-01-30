@@ -10,6 +10,18 @@ ________________________________________________________________________________
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/1466e3f9-71c8-4329-878a-7066783d642f)
 _____________________________________________________________________________________
 
+# Taking care of your Arch install
+
+The main issue with arch is that it updates on the bleeding edge, the operating system is in constant need of updates, otherwise it might break and not work anymore.
+Arch is often referred to as an unstable operating system, I personally do not think that this is entirely true and you just need to be able to maintain your own operating system.
+
+Use either the `yay` or `sudo pacman -Syu` command to update your entire system and all packages except flatpaks
+
+To update your flatpaks you'd need to put the command: `sudo flatpak update` into the terminal or update them from the software store you used to download them from, on KDE that store would most likely be 'Discover'
+
+From time to time you can also clear the orphaned packages from your system by running `pacman -Qtdq | pacman -Rns` as the root user
+ 
+
 Installing AUR packages:
 
 To install an AUR package you write:
