@@ -130,10 +130,12 @@ Now we will theme the Bootloader and make it presentable
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
 
-# Navigating the Linux filesystem using `ls` also known as list in the terminal 
-[This Article may give some insight](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
+# Navigating the Linux filesystem using `cd` `ls` and other commands in the terminal 
 
-Information that has been accumulated trough this article:
+[This Article may be helpful when trying to get a general understanding of the linux file system](https://www.redhat.com/sysadmin/navigating-linux-filesystem)
+[This Article may give some insight into navigating the file system using ls](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
+
+
 
 `ls` to list the current directories contents
 
@@ -141,9 +143,9 @@ Information that has been accumulated trough this article:
 
 `ls (insert directory name)` to list a certain directory
 
-`ls (characters)*` to list any file with the selected string of characters
+`ls (characters)*` to list any files with the selected string of characters
 
-`ls (character)?` to list any file with the selected single character
+`ls (character)?` to list any files with the selected single character
 
 `ls *.png` to list any files with the selected file format, in this case the .png format
 
