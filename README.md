@@ -172,6 +172,10 @@ The very first character represents the file type. It will be one of:
 
 `ls -l -A` using the -a flag almost all files will be shown, omitting . and .. entries from your list, resulting in an overall more legible window
 
+`ls -l -R` using the -R (recursive) flag lists all files in each subdirectory
+
+`ls -n` to using the -n flag lists the user ID instead of the user name
+
 _____________________________________________________________________________________
 
 
