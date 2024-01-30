@@ -136,9 +136,13 @@ ________________________________________________________________________________
 Information that has been accumulated trough this article:
 
 `ls` to list the current directories contents
+
 `ls -(insert number of rows)` to change the number of rows shown when listing the directory
+
 `ls (insert directory name)` to list a certain directory
+
 `ls (characters)*` to list any file with the selected string of characters
+
 `ls (character)?` to list any file with the single character
 _____________________________________________________________________________________
 
