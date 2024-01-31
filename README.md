@@ -315,15 +315,15 @@ OpenRGB is an open source utility to control all your RGB using one software sol
 
 Before launching we'll need to execute a few commands
 
-`sudo modprobe i2c-dev` to load the i2c-dev module
+     $ sudo modprobe i2c-dev
 
-`sudo groupadd --system i2c` to create the i2c group if it does not already exist
+     $ sudo groupadd --system i2c
 
-`sudo usermod $USER -aG i2c` to add yourself to the i2c group
+     $ sudo usermod $USER -aG i2c
+ 
+       sudo touch /etc/modules-load.d/i2c.conf &&
 
-`sudo touch /etc/modules-load.d/i2c.conf &&` 
-
-`sudo sh -c 'echo "i2c-dev" >> /etc/modules-load.d/i2c.conf'` to load the i2c-dev module at boot
+       sudo sh -c 'echo "i2c-dev" >> /etc/modules-load.d/i2c.conf'
 
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/7f3c460d-7f7a-4de9-9d47-2f5c539cf0f6)
 
