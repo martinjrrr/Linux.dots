@@ -198,9 +198,9 @@ How to use the `make` directory command
 
 `mkdir /home/user/Documents/exampledir` to make a new directory called 'exampledir' in the Documents folder of our Linux system
 
-`makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/
+`makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
 
-This will create a file tree that looks like this 
+This will create a file tree that looks like this: 
 
      Documents
      ├──folder1
