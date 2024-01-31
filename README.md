@@ -188,10 +188,11 @@ The very first character represents the file type:
 |`ls -l -t` | using the flag -t will sort files by when they were last modified |
 | `ls -l -h -S -r` | using the -r flag will reverse any sort orders |
  
-use `ls -t | head -1` to get the newest file in the directory 
+use `ls -t | head -1` to get the newest file in the directory
+
 use `ls -t | tail -1` to get the oldest file in the directory 
 
-Next up we are going to take a look at the make directory command
+How to use the `make` directory command
 
 `mkdir [OPTION] [DIRECTORY]` this is the commands syntax
 
