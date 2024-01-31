@@ -204,6 +204,7 @@ How to use the `make` directory command
 
 `mkdir /home/user/Documents/exampledir` to make a new directory called 'exampledir' in the Documents folder of our Linux system
 
+_____________________________________________________________________________________
 
 
 an example of a file tree and the command that creates it:
@@ -220,6 +221,7 @@ an example of a file tree and the command that creates it:
          └──subfolder2
          
 
+_____________________________________________________________________________________
 
 
 an example of a more complicated file tree and the command that creates it:
@@ -239,6 +241,7 @@ an example of a more complicated file tree and the command that creates it:
         ├──Progressive
         └──Punk
      
+_____________________________________________________________________________________
 
 
 
