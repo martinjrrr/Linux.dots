@@ -220,17 +220,17 @@ This will create a file tree that looks like this:
 This will create a file tree that looks like this
 
     Music/
-    |-- Classical
-    |   `-- Baroque
-    |       `-- Early
-    |-- Disco
-    |-- Folk
-    |-- Jazz
-    |   `-- Blues
-     `-- Rock
+    ├──Classical
+    |   └──Baroque
+    |       └──Early
+    |──Disco
+    |──Folk
+    |──Jazz
+    |   └──Blues
+    └──Rock
          |-- Gothic
          |-- Progressive
-          `-- Punk
+         └──Punk
 
 
 `sudo makedir` to make a directory in a folder that needs super user permissions
