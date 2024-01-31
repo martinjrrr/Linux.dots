@@ -97,18 +97,17 @@ Afterwards save the EDID binary and rename it to "modified_edid.bin" and save it
 
 Open a Terminal: 
 
-`cd ~/Downloads/` Then we'll use super user do (sudo) to copy the file to the following directory.
+    $ cd ~/Downloads/
 
-`sudo cp modified_edid.bin /usr/lib/firmware/edid/`
+    $ sudo cp modified_edid.bin /usr/lib/firmware/edid/
 
-`sudo mkdir /usr/lib/firmware/edid/` if the directory does not exist
+    sudo mkdir /usr/lib/firmware/edid/ if the directory does not exist
 
-`kate /etc/default/grub` to open the file and add
+    open the file /etc/default/grub with your preferred text editor the text: drm.edid_firmware=edid/modified_edid.bin
 
-`drm.edid_firmware=edid/modified_edid.bin` 
-after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
+    after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 
-`sudo grub-mkconfig -o /boot/grub/grub.cfg` in the terminal to apply the kernel patch
+    sudo grub-mkconfig -o /boot/grub/grub.cfg` in the terminal to apply the kernel patch
 
 **After a reboot the monitor should switch to the correct RGB values upon login**
 
