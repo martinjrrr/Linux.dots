@@ -130,11 +130,11 @@ So that the Bash config looks good.
 
 Now we will theme the Bootloader and make it presentable 
 
-`git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes`
+    $ git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
 
-`cd Top-5-Bootloader-Themes`
+    $ cd Top-5-Bootloader-Themes
 
-`sudo ./install.sh`
+    $ sudo ./install.sh
 
 choose the theme that you like most and apply
 
