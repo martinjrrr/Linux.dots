@@ -223,9 +223,9 @@ This will create a file tree that looks like this
     ├──Classical
     |   └──Baroque
     |       └──Early
-    |──Disco
-    |──Folk
-    |──Jazz
+    ├──Disco
+    ├──Folk
+    ├──Jazz
     |   └──Blues
     └──Rock
         |──Gothic
