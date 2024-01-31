@@ -216,8 +216,8 @@ an example of a file tree and the command that creates it:
      └──folder2
          ├──subfolder1
          └──subfolder2
-     `makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
-
+         
+`makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
 
 
 an example of a more complicated file-tree and the command that creates it:
@@ -234,7 +234,9 @@ an example of a more complicated file-tree and the command that creates it:
         ├──Gothic
         ├──Progressive
         └──Punk
-    `mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
+     
+`mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
+
 
 `sudo makedir` to make a directory in a folder that needs super user permissions
 
