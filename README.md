@@ -198,6 +198,19 @@ How to use the `make` directory command
 
 `mkdir /home/user/Documents/exampledir` to make a new directory called 'exampledir' in the Documents folder of our Linux system
 
+`makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/
+
+This will create a file tree that looks like this 
+
+   Documents
+   |-- folder1
+   |         |_ subfolder1
+   |         |_ subfolder2
+   |
+   |-- folder2
+             |_ subfolder1
+             |_ subfolder2
+
 `sudo makedir` to make a directory in a folder that needs super user permissions
 
 `sudo chown -R user /home/user/Documents/exampledir/*` is what we'll use if we want to take ownership of the folder exampledir and all sub files and folders
