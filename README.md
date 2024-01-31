@@ -206,7 +206,7 @@ How to use the `make` directory command
 
 This will create a file tree that looks like this: 
 
-     Documents
+     Documents/
      ├──folder1
      |  └──subfolder1
      |  └──subfolder2
