@@ -1,4 +1,4 @@
-# Linux.dots
+# Linux.dots / general personal guide
 
 
 
