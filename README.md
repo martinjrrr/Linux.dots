@@ -144,6 +144,8 @@ ________________________________________________________________________________
 
 [More specific guide for using ls](https://www.howtogeek.com/448446/how-to-use-the-ls-command-on-linux/)
 
+[Guide on how to use the tree command with examples](https://linuxhandbook.com/tree-command/)
+
 `cd /home/user/Documents/` to navigate into the Documents folder located in the users home directory
 
 `cd ~` to navigate back to your home directory
