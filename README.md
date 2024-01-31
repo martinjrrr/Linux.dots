@@ -134,7 +134,7 @@ Now we will theme the Bootloader and make it presentable
 
     $ cd Top-5-Bootloader-Themes
 
-    $ sudo ./install.sh
+      sudo ./install.sh
 
 choose the theme that you like most and apply
 
