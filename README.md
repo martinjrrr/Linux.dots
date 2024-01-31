@@ -204,7 +204,7 @@ How to use the `make` directory command
 
 `makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
 
-This will create a file tree that looks like this: 
+creates a file tree that looks like this: 
 
      Documents/
      ├──folder1
@@ -217,7 +217,7 @@ This will create a file tree that looks like this:
 
 `mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
 
-This will create a file tree that looks like this
+creates a file tree that looks like this
 
     Music/
     ├──Classical
