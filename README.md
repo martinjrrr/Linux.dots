@@ -337,7 +337,7 @@ Before launching we'll need to execute a few commands
 
        sudo sh -c 'echo "i2c-dev" >> /etc/modules-load.d/i2c.conf'
 
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/7f3c460d-7f7a-4de9-9d47-2f5c539cf0f6)
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/211dd1fd-05cb-4ef1-a02e-c1a611ae3856)
 
 
 **Now OpenRGB should also show RAM Modules**
