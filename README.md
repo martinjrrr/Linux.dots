@@ -134,6 +134,8 @@ Now we will theme the Bootloader and make it presentable
 
 `sudo ./install.sh`
 
+choose the theme that you like most and apply
+
 
 **Now we have configured our Bootloader and Konsole**
 _____________________________________________________________________________________
