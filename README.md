@@ -124,7 +124,8 @@ We are now going to Setup an equivalent to OhMyZSH to make our terminal look bet
 Then we will add any Nerdfont to the System https://www.nerdfonts.com/
 So that the Bash config looks good.
 
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/24c05729-79fd-4418-9847-e46a737b1c44)
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/03247de1-ff2f-49fe-8947-ad50fa507f81)
+
 
 Now we will theme the Bootloader and make it presentable 
 
