@@ -1,3 +1,5 @@
+_____________________________________________________________________________________
+
 # Linux.dots / general personal guide
 
 
@@ -7,7 +9,7 @@ In the following `README.md` I'm going to explain to my future self how to setup
 If anyone but myself uses this Repository for information I will reserve myself the right to not be held accountable for potentially bricking / breaking your systems or installs you have been warned!
 _____________________________________________________________________________________
 
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/53385f31-888a-4382-b733-c601e667a98d)
+ ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/53385f31-888a-4382-b733-c601e667a98d)
 
 _____________________________________________________________________________________
 
