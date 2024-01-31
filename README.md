@@ -215,6 +215,24 @@ This will create a file tree that looks like this:
                └──subfolder1
                └──subfolder2
 
+`mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
+
+This will create a file tree that looks like this
+
+    Music/
+    |-- Classical
+    |   `-- Baroque
+    |       `-- Early
+    |-- Disco
+    |-- Folk
+    |-- Jazz
+    |   `-- Blues
+     `-- Rock
+         |-- Gothic
+         |-- Progressive
+          `-- Punk
+
+
 `sudo makedir` to make a directory in a folder that needs super user permissions
 
 `sudo chown -R user /home/user/Documents/exampledir/*` is what we'll use if we want to take ownership of the folder exampledir and all sub files and folders
