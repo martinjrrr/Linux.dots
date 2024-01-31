@@ -208,12 +208,12 @@ This will create a file tree that looks like this:
 
      Documents
      ├──folder1
-     |         └──subfolder1
-     |         └──subfolder2
+     |  └──subfolder1
+     |  └──subfolder2
      |
      └──folder2
-               └──subfolder1
-               └──subfolder2
+        └──subfolder1
+        └──subfolder2
 
 `mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
 
@@ -228,8 +228,8 @@ This will create a file tree that looks like this
     |──Jazz
     |   └──Blues
     └──Rock
-         |-- Gothic
-         |-- Progressive
+         |──Gothic
+         |──Progressive
          └──Punk
 
 
