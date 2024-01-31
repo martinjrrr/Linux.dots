@@ -208,7 +208,7 @@ This will create a file tree that looks like this:
 
      Documents/
      ├──folder1
-     |   └──subfolder1
+     |   ├──subfolder1
      |   └──subfolder2
      |
      └──folder2
@@ -228,8 +228,8 @@ This will create a file tree that looks like this
     ├──Jazz
     |   └──Blues
     └──Rock
-        |──Gothic
-        |──Progressive
+        ├──Gothic
+        ├──Progressive
         └──Punk
 
 
