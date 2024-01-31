@@ -202,14 +202,14 @@ How to use the `make` directory command
 
 This will create a file tree that looks like this 
 
-   Documents
-   |-- folder1
-   |         |_ subfolder1
-   |         |_ subfolder2
-   |
-   |-- folder2
-             |_ subfolder1
-             |_ subfolder2
+     Documents
+     |-- folder1
+     |         |_ subfolder1
+     |         |_ subfolder2
+     |
+     |-- folder2
+               |_ subfolder1
+               |_ subfolder2
 
 `sudo makedir` to make a directory in a folder that needs super user permissions
 
