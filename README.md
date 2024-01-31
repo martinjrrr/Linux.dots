@@ -152,7 +152,7 @@ ________________________________________________________________________________
 | ls -flag | what they are for |
 | --- | --- |
 | `ls` | to list the current directories contents |
-| `ls -<insert number of rows>` | to change the number of rows shown when listing the directory |
+| `ls -<nr of rows>` | to change the number of rows shown when listing the directory |
 | `ls <directory name>` | to list a certain directory |
 | `ls <characters>*` | to list any files with the selected string of characters | 
 | `ls <character>?` | to list any files with the selected single character |
