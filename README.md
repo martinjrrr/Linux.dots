@@ -204,9 +204,9 @@ How to use the `make` directory command
 
 `mkdir /home/user/Documents/exampledir` to make a new directory called 'exampledir' in the Documents folder of our Linux system
 
-`makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
 
-creates a file tree that looks like this: 
+
+an example of a file tree and the command that creates it:
 
      Documents/
      ├──folder1
@@ -216,10 +216,11 @@ creates a file tree that looks like this:
      └──folder2
          ├──subfolder1
          └──subfolder2
+     `makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
 
-`mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
 
-creates a file tree that looks like this
+
+an example of a more complicated file-tree and the command that creates it:
 
     Music/
     ├──Classical
@@ -233,7 +234,7 @@ creates a file tree that looks like this
         ├──Gothic
         ├──Progressive
         └──Punk
-
+    `mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
 
 `sudo makedir` to make a directory in a folder that needs super user permissions
 
