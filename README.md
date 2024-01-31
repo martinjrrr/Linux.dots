@@ -160,7 +160,7 @@ ________________________________________________________________________________
 | `ls --hide=*.png` | to hide all files with the given file extension |
 | `ls -l` | is the so called: "long listing" option which gives you more details on each file |
 
-The long listing lists a long list of information, in this case it is the file type, the user, the group, the file size, date the file was last edited, with month, date, exact time to the minute and year listed respectfully.
+The long listing lists a lot of information at once, in this case it is the file type, the user, the group, the file size, date the file was last edited, with month, date, exact time to the minute and year listed respectfully.
 There are different types of files, depending on the first character it could mean:
 
 The very first character represents the file type:
