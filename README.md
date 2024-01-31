@@ -269,7 +269,7 @@ ________________________________________________________________________________
 
 # Utilities you'll need
 
-All of these are to be installed using the yay package manager
+All of these are to be installed using the yay package manager or the guide on installing AUR packages above
 
 `mesa-git` FOSS GPU Drivers
 
@@ -287,8 +287,9 @@ After finishing the Download you'll need to run the following commands in the te
 
 **Now Radeon-profile should be working and showing modules like fan control**
 
+OpenRGB is an open source utility to control all your RGB using one software solution
 
-`openrgb`
+`openrgb` / `openrgb-git`
 
 `i2c-tools`
 
@@ -313,18 +314,25 @@ ________________________________________________________________________________
 
 # Programs that are nice to have
 
-`pamac`
-`kate`
-`vscodium`
-`thunderbird`
-`kgamma5`
-`ani-cli` 
-`mangal`
-`speedtest-cli` 
-`portmaster-stub-bin` 
-`Discover` + `packagekit-qt5` 
-`Obsidian` 
-`clam AV` 
+`kate` -> Text Editor
+
+`vscodium` -> Opensource VSCode binaries
+
+`thunderbird` -> Mozillas Mail Client
+
+`kgamma5` -> X11 Gamma control for KDE Systems
+
+`ani-cli` -> Watch and download anime from your terminal
+
+`mangal` -> Read and download manga from your terminal
+
+`speedtest-cli` -> cli to test your connection speeds from your terminal 
+
+`Discover` + `packagekit-qt5` -> KDE's own software store
+
+`Obsidian` -> Notetaking app with community integration
+
+`clam AV` -> Antivirus software
 
 
 _____________________________________________________________________________________
