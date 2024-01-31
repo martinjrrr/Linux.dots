@@ -207,6 +207,7 @@ How to use the `make` directory command
 
 
 an example of a file tree and the command that creates it:
+`makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
 
      Documents/
      ├──folder1
@@ -217,10 +218,11 @@ an example of a file tree and the command that creates it:
          ├──subfolder1
          └──subfolder2
          
-`makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
 
 
-an example of a more complicated file-tree and the command that creates it:
+
+an example of a more complicated file tree and the command that creates it:
+`mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
 
     Music/
     ├──Classical
@@ -235,7 +237,7 @@ an example of a more complicated file-tree and the command that creates it:
         ├──Progressive
         └──Punk
      
-`mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
+
 
 
 `sudo makedir` to make a directory in a folder that needs super user permissions
