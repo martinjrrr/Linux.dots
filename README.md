@@ -207,6 +207,7 @@ How to use the `make` directory command
 
 
 an example of a file tree and the command that creates it:
+
 `makedir -p /home/user/Documents/folder1,folder2/subfolder1,subfolder2/`
 
      Documents/
@@ -222,6 +223,7 @@ an example of a file tree and the command that creates it:
 
 
 an example of a more complicated file tree and the command that creates it:
+
 `mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}`
 
     Music/
