@@ -101,13 +101,13 @@ Open a Terminal:
 
     $ sudo cp modified_edid.bin /usr/lib/firmware/edid/
 
-    sudo mkdir /usr/lib/firmware/edid/ if the directory does not exist
+    $ sudo mkdir /usr/lib/firmware/edid/ if the directory does not exist
 
     open the file /etc/default/grub with your preferred text editor the text: drm.edid_firmware=edid/modified_edid.bin
 
     after **GRUB_CMDLINE_LINUX_DEFAULT=** and **GRUB_CMDLINE_LINUX=** then save
 
-    sudo grub-mkconfig -o /boot/grub/grub.cfg` in the terminal to apply the kernel patch
+    $ sudo grub-mkconfig -o /boot/grub/grub.cfg` in the terminal to apply the kernel patch
 
 **After a reboot the monitor should switch to the correct RGB values upon login**
 
