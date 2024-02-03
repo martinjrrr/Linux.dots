@@ -293,7 +293,8 @@ If the daemon gives you any issues like playing two streams at once type the fol
 
 `spotifyd`
 
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/8448e22a-c682-43a9-b640-479a1dd62403)
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/71fb9122-d4b5-458a-ad59-f7c3d583e855)
+
 
 
 _____________________________________________________________________________________
