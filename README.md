@@ -397,16 +397,16 @@ reboot
 
 _____________________________________________________________________________________
 
-# Ublock Origin
+# uBlock Origin
 
-Ublock Origin is a must have for any Browser and should be installed on each Browser you use
+uBlock Origin is a must have for any Browser and should be installed on each Browser you use
 
 https://ublockorigin.com/
 _____________________________________________________________________________________
 
-# Youtube Shorts Filter List for Ublock Origin
+# Youtube Shorts Filter List for uBlock Origin
 
-Add the following text via. copy and paste to your Ublock Origin filter list to get rid of pesky Youtube Shorts
+Add the following text via. copy and paste to your uBlock Origin filter list to get rid of pesky Youtube Shorts
 
     ! Title: Hide YouTube Shorts
     ! Description: Hide all traces of YouTube shorts videos on YouTube
