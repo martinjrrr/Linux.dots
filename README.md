@@ -406,6 +406,8 @@ ________________________________________________________________________________
 
 # Youtube Shorts Filter List for Ublock Origin
 
+Add the following text via. copy and paste to your Ublock Origin filter list to get rid of pesky Youtube Shorts
+
     ! Title: Hide YouTube Shorts
     ! Description: Hide all traces of YouTube shorts videos on YouTube
     ! Version: 1.8.0
