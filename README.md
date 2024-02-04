@@ -397,6 +397,54 @@ reboot
 
 _____________________________________________________________________________________
 
+# Ublock Origin
+
+Ublock Origin is a must have for any Browser and should be installed on each Browser you use
+
+https://ublockorigin.com/
+_____________________________________________________________________________________
+
+# Youtube Shorts Filter List for Ublock Origin
+
+    ! Title: Hide YouTube Shorts
+    ! Description: Hide all traces of YouTube shorts videos on YouTube
+    ! Version: 1.8.0
+    ! Last modified: 2023-01-08 20:02
+    ! Expires: 2 weeks (update frequency)
+    ! Homepage: https://github.com/gijsdev/ublock-hide-yt-shorts
+    ! License: https://github.com/gijsdev/ublock-hide-yt-shorts/blob/master/LICENSE.md
+
+    ! Hide all videos containing the phrase "#shorts"
+    youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#shorts))
+    youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#Shorts))
+    youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#short))
+    youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#Short))
+
+    ! Hide all videos with the shorts indicator on the thumbnail
+    youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+    youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
+    youtube.com##ytd-video-renderer:has([overlay-style="SHORTS"])
+    youtube.com##ytd-item-section-renderer.ytd-section-list-renderer[page-subtype="subscriptions"]:has(ytd-video-renderer:has([overlay-style="SHORTS"]))
+
+    ! Hide shorts button in sidebar
+    youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+    youtube.com##ytd-mini-guide-entry-renderer:has-text(Shorts)
+ 
+    ! Hide shorts section on homepage
+    youtube.com##ytd-rich-section-renderer:has(#rich-shelf-header:has-text(Shorts))
+    youtube.com##ytd-reel-shelf-renderer:has(.ytd-reel-shelf-renderer:has-text(Shorts))
+
+    ! Hide shorts tab on channel pages
+    ! Old style
+    youtube.com##tp-yt-paper-tab:has(.tp-yt-paper-tab:has-text(Shorts))
+    ! New style (2023-10)
+    youtube.com##yt-tab-shape:has-text(/^Shorts$/)
+
+    ! Hide shorts in video descriptions
+    youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer:has-text("Shorts remixing this video")
+
+    ! Remove empty spaces in grid
+    youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
 
 
 
