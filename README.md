@@ -293,8 +293,10 @@ If the daemon gives you any issues like playing two streams at once type the fol
 
 `spotifyd`
 
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/71fb9122-d4b5-458a-ad59-f7c3d583e855)
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/f5a55a60-db9d-4672-a057-19e71f9e24ff)
 
+In addition to spotifyd and spotify-tui you can install cava
+a visualizer, copy my config into ~/.config/cava/ to apply the design shown in the screenshot above
 
 
 _____________________________________________________________________________________
