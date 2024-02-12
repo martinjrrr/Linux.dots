@@ -113,6 +113,17 @@ Open a Terminal:
 
 _____________________________________________________________________________________
 
+# Create your own Firefox Home page
+
+[HTML Startpage Generator](https://github.com/PrettyCoffee/yet-another-generic-startpage)
+
+
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/097d6026-59fe-455f-8494-3921567cb9a4)
+
+
+_____________________________________________________________________________________
+
+
 # Configuring Konsole and Grub Bootloader Menu
 
 We are now going to Setup an equivalent to OhMyZSH to make our terminal look better
