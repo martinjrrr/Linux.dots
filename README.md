@@ -117,9 +117,10 @@ ________________________________________________________________________________
 
 [HTML Startpage Generator](https://github.com/PrettyCoffee/yet-another-generic-startpage)
 
+![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/809d81d8-42d9-46ff-b83d-316d9e135d3c)
 
-![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/097d6026-59fe-455f-8494-3921567cb9a4)
-
+You could also use the shown config, Download the *firestart.zip* and select the HTML file as your Firefox homepage
+If you want to modify my given example navigate to the Startpage generator and feed the *ls-backup.json* into the site
 
 _____________________________________________________________________________________
 
@@ -128,11 +129,11 @@ ________________________________________________________________________________
 
 We are now going to Setup an equivalent to OhMyZSH to make our terminal look better
 
-`git clone https://github.com/christitustech/mybash`
+    git clone https://github.com/christitustech/mybash
 
-`cd mybash`
+    cd mybash
 
-`./setup.sh`
+    ./setup.sh
 
 Then we will add any Nerdfont to the System https://www.nerdfonts.com/
 So that the Bash config looks good.
