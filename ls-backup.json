@@ -1,0 +1,170 @@
+{
+  "yags-general": {
+    "img": "https://i.pinimg.com/564x/09/e3/a1/09e3a180d799ff0f0d9c242a3d4448dc.jpg",
+    "title": "You are home",
+    "displayImg": true,
+    "font": "Quicksand",
+    "enableFonts": false,
+    "fontSize": 1
+  },
+  "yags-search": {
+    "placeholder": "search what you are looking for",
+    "engine": "duckduckgo",
+    "forwardingLookup": {}
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "custom",
+      "bg": {
+        "shade": "#17191C",
+        "base": "#1c1b22",
+        "surface": "#292c32",
+        "highlight": "#292B31"
+      },
+      "fg": {
+        "shade": "#6abb80",
+        "base": "#69707F",
+        "surface": "#808796",
+        "highlight": "#9A9FAB"
+      },
+      "primary": {
+        "bg": "#44bb6a",
+        "base": "#579190",
+        "fg": "#9AC2C2"
+      },
+      "secondary": {
+        "bg": "#117d67",
+        "base": "#4A7197",
+        "fg": "#8BA9C6"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 5,
+      "blur": 0,
+      "offset": 12,
+      "shadow": "12px 12px 0px rgb(68, 187, 106), 24px 24px 0px rgb(55.25, 171.5, 105.25), 36px 36px 0px rgb(42.5, 156, 104.5), 48px 48px 0px rgb(29.75, 140.5, 103.75), 60px 60px 0px rgb(17, 125, 103)"
+    },
+    "borderRadius": 9,
+    "maxWidth": 950
+  },
+  "yags-bookmarks": [
+    {
+      "id": "sfb9KcZNVL4vCgla",
+      "label": "social media",
+      "bookmarks": [
+        {
+          "id": "ADoxirp4MojoNMmn",
+          "label": "pinterest",
+          "url": "https://pinterest.de"
+        },
+        {
+          "id": "nmTJEqu2EMGvHTy2",
+          "label": "youtube",
+          "url": "https://youtube.com"
+        },
+        {
+          "id": "aFlRGBKr2v25LX6g",
+          "label": "twitter",
+          "url": "https://x.com"
+        },
+        {
+          "id": "Axa5EXoLXVTIuNnO",
+          "label": "tiktok",
+          "url": "https://tiktok.com"
+        }
+      ]
+    },
+    {
+      "id": "JUllcmvjAgJUMFIg",
+      "label": "streaming",
+      "bookmarks": [
+        {
+          "id": "wktF0YNPElXVMiTk",
+          "label": "spotify",
+          "url": "https://open.spotify.com/"
+        },
+        {
+          "id": "ZgStR8UkvtX4QAdq",
+          "label": "netflix",
+          "url": "https://netflix.com/de"
+        },
+        {
+          "id": "JVz9vzr1YbP0X2Km",
+          "label": "disney+",
+          "url": "https://www.disneyplus.com/de-de/home"
+        },
+        {
+          "id": "A2fQnkBW3HBAVQ7N",
+          "label": "soundcloud",
+          "url": "https://soundcloud.com/discover"
+        }
+      ]
+    },
+    {
+      "id": "cklPRtCjsJgljHvv",
+      "label": "important",
+      "bookmarks": [
+        {
+          "id": "BMDEGJlHkhnoDAiY",
+          "label": "monkeytype",
+          "url": "https://monkeytype.com"
+        },
+        {
+          "id": "Xf1PxpH4YMla2q1h",
+          "label": "cobalt tools",
+          "url": "https://cobalt.tools"
+        },
+        {
+          "id": "gLw4Y6mSjcmT1kSA",
+          "label": "github",
+          "url": "https://github.com"
+        },
+        {
+          "id": "FZgSItmZv1JF8lsT",
+          "label": "chatgpt",
+          "url": "https://chat.openai.com"
+        }
+      ]
+    },
+    {
+      "id": "DLthDKJxktMfYxBa",
+      "label": "social platforms",
+      "bookmarks": [
+        {
+          "id": "KOMkpaVFylQauUuD",
+          "label": "discord",
+          "url": "https://discord.com/channels/@me"
+        },
+        {
+          "id": "lqZ5lONHUU8ceaQD",
+          "label": "telegram",
+          "url": "https://web.telegram.org/a/"
+        },
+        {
+          "id": "NZGh3wgwDWgfZFMS",
+          "label": "protonmail",
+          "url": "https://mail.proton.me/u/0/inbox"
+        }
+      ]
+    }
+  ]
+}
