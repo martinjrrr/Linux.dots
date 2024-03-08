@@ -421,11 +421,20 @@ ________________________________________________________________________________
 head to about:config in your address bar for all of these
 
 Disable fullscreen popup when fullscreening a video:
-full-screen-api.warning.timeout = 0
+    
+    full-screen-api.warning.timeout -> set to 0
 
 Disable translate option:
+       
+    browser.translations.automaticallyPopup 
+    browser.translations.enable
+    browser.translations.panelShown
+
+
+
 
 # Youtube Shorts Filter List for uBlock Origin
+
 
 Add the following text via. copy and paste to your uBlock Origin filter list to get rid of pesky Youtube Shorts
 
