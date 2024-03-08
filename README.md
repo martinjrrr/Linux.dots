@@ -379,8 +379,6 @@ ________________________________________________________________________________
 `Obsidian` -> Notetaking app with community integration
 
 `clam AV` -> Antivirus software
-
-yay -S obsidian spotify-tui spotifyd cava-git ani-cli-git firefox-developer-edition spotify stacer-bin telegram-desktop flatpak noto-fonts-emoji speedtest-cli thunderbird
 _____________________________________________________________________________________
 
 # Fix Minecraft not connecting to the sound engine
@@ -417,6 +415,15 @@ uBlock Origin is a must have for any Browser and should be installed on each Bro
 
 https://ublockorigin.com/
 _____________________________________________________________________________________
+
+# Firefox about:config tweaks
+
+head to about:config in your address bar for all of these
+
+Disable fullscreen popup when fullscreening a video:
+full-screen-api.warning.timeout = 0
+
+Disable translate option:
 
 # Youtube Shorts Filter List for uBlock Origin
 
