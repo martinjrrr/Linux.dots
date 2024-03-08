@@ -98,11 +98,6 @@
       "label": "streaming",
       "bookmarks": [
         {
-          "id": "wktF0YNPElXVMiTk",
-          "label": "spotify",
-          "url": "https://open.spotify.com/"
-        },
-        {
           "id": "ZgStR8UkvtX4QAdq",
           "label": "netflix",
           "url": "https://netflix.com/de"
@@ -116,6 +111,11 @@
           "id": "A2fQnkBW3HBAVQ7N",
           "label": "soundcloud",
           "url": "https://soundcloud.com/discover"
+        },
+        {
+          "id": "rqxqeLzO6pzC6SsG",
+          "label": "spotify",
+          "url": "https://open.spotify.com/"
         }
       ]
     },
@@ -147,7 +147,7 @@
     },
     {
       "id": "DLthDKJxktMfYxBa",
-      "label": "social platforms",
+      "label": "social",
       "bookmarks": [
         {
           "id": "KOMkpaVFylQauUuD",
@@ -160,9 +160,25 @@
           "url": "https://web.telegram.org/a/"
         },
         {
-          "id": "NZGh3wgwDWgfZFMS",
+          "id": "dsutBIaE3sh3fJi8",
+          "label": "whatsapp",
+          "url": "https://web.whatsapp.com/"
+        }
+      ]
+    },
+    {
+      "id": "xKBDmzQOFZK3dNhC",
+      "label": "mail clients",
+      "bookmarks": [
+        {
+          "id": "20t47PGCPtivEESs",
           "label": "protonmail",
           "url": "https://mail.proton.me/u/0/inbox"
+        },
+        {
+          "id": "LHDESxBiLx34EJ8k",
+          "label": "gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox"
         }
       ]
     }
