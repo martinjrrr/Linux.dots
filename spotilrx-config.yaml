@@ -1,0 +1,49 @@
+cookie: "OptanonConsent=isGpcEnabled=0&datestamp=Mon+Feb+05+2024+23%3A17%3A15+GMT%2B0100+(Central+European+Standard+Time)&version=202309.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=924402e2-d15e-4aec-9de6-c96a1e48df14&interactionCount=2&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2CV2STACK3%3A1%2CV2STACK11%3A1%2CV2STACK20%3A1%2Cf11%3A1%2CBG181%3A1&geolocation=DE%3BSH&AwaitingReconsent=false; sp_dc=AQCbrON6pCyFK3YNlVd95sGqnnhSz56hsrDT2MJiuCkBpkixTzQB1TbwPAjYzj4z7Jz4gY7hCUdTtXjTUZgWdJZ4URMGLU5kHaTdUxm0UwHkCaY9OMrq--LhfVW3gmrI2oUwIL0VUe-8sxnRFzc1t93nXJK0RJI; sp_key=951a4df7-024f-44f0-9ee1-8c95baddb157; OptanonAlertBoxClosed=2024-02-04T13:36:03.439Z; eupubconsent-v2=CP5c7ZgP5c7ZgAcABBENAmEgAP_AAAAAAAYgg1Qh4AAgAEAASABQAFwAPABAACsAFwAbAA7AB8AIgASAAoABUAC6AGIAZQA0ADWAHIAfABCgCIAI4ASYAlgCdAFEAUoAqACqAFcALcAXQBfADFAGUAZoA2ADdAHIAc4A7gDwAHoAP0AgACBgEGAQgAhoBFAEYAJSASwBLgCaAE6AKGAUYBSQCtAK6AXABcwDAAMIAYgAygBpgDVAHOAOuAdoB3gDxAHsAPiAfgB_AEDgIMAhABEACJAEUgIsAi8BHAEdgJKAkwBKgCWgE4gJ0AngBQQChgFLAKaAVcArIBXwC0gF1AL0AXyAwADAgGEAMUAY0AzQBnQDTgGyANwAb8A4QBxADmgHVAOuAdkA7YB6AD1QHvAfEA-oB-wECgIMAQmAhYBDECJQImARUAi8BGoCPYEiASKAmoBOgChwFGAKWAU-AsOBZQFlgLPAWwAuIBeYC_gGAgMDAYoAxYBjIDLAJvQTgBOSCcwJ1QTsBPMINQAAACgkB0ABYAFQAQQAyADUAHgARAAmABVAD0AH4AQgAhgBLACaAHfAPYA-IB-AH6ARQAi4BJQCggFXAMUAbgA4gCRAFDgLYAXmEADgAkAHOAQcBHoCRQFPgMWHQJQAFgAVABAAC6AGIAagA8ACIAEwAKoAXQAxABmAD0AH4AQwAlgBNACjAGUAO8Ae0A_AD9gIoAi4BHQCggFXAL0AYoA3ABxAEXgJEAUOAsoBbAC8wGWDgBQADwALgAkAB-AOcAd0BBwEIAR6AkUBixCAcAAsAFwAMQAagBMACqAGIAPQA7wCKAFBAKuAYoBZRAAEAOcBHpKAmAAsAGIAPAAiABMACqAGIAQwAowB3gD8AKuAYoBEwCLwEiALKAWwAvMkAGAAuAO4Ag4CPQEigMWKQHgAFgAVABBADEANQAeABEACYAFIAKoAYgAzAB-AEMAKMAZQA74B-AH6ARYAjoBQQCrgGKANwAiYBF4CRAFDgLYAXmAywoAMAAuACQAc4A7gCDgF1ANeAdsBHoCRQFPgMWAA.f_gAAAAAAAAA; _ga_ZWRF3NLZJZ=GS1.1.1707053763.1.1.1707055423.0.0.0; _ga=GA1.1.1357772152.1707053764; sp_t=4160c9c2c6a8fe1d1be3c5178754cee1; sp_landing=https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D4160c9c2c6a8fe1d1be3c5178754cee1%26device%3Ddesktop"
+player: spotify
+host: lyricsapi.vercel.app
+ignoreErrors: true
+timerInterval: 200
+updateInterval: 2000
+style:
+  hAlignment: center
+  before:
+    background: ""
+    foreground: ""
+    bold: true
+    italic: false
+    undeline: false
+    strikethrough: false
+    blink: false
+    faint: false
+  current:
+    background: ""
+    foreground: ""
+    bold: true
+    italic: false
+    undeline: true
+    strikethrough: false
+    blink: false
+    faint: false
+  after:
+    background: ""
+    foreground: ""
+    bold: true
+    italic: false
+    undeline: false
+    strikethrough: false
+    blink: false
+    faint: true
+pipe:
+  length: 0
+  overflow: word
+mpd:
+  address: 127.0.0.1:6600
+  password: ""
+mopidy:
+  address: 127.0.0.1:6680
+mpris:
+  players: []
+browser:
+  port: 8974
+local:
+  folder: ""
