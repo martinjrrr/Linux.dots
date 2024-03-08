@@ -380,7 +380,7 @@ ________________________________________________________________________________
 
 `clam AV` -> Antivirus software
 
-
+yay -S obsidian spotify-tui spotifyd cava-git ani-cli-git firefox-developer-edition spotify stacer-bin telegram-desktop flatpak noto-fonts-emoji
 _____________________________________________________________________________________
 
 # Fix Minecraft not connecting to the sound engine
