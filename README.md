@@ -171,8 +171,10 @@ We are now going to Setup an equivalent to OhMyZSH to make our terminal look bet
 
     ./setup.sh
 
-Then we will add any Nerdfont to the System https://www.nerdfonts.com/
-So that the Bash config looks good.
+We'll download the Jetbrains Mono Nerdfont to our system so that we can set it in the terminal:
+
+    cd ~/Downloads &&
+    curl -L -o JetBrainsMono.zip "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip"
 
 ![image](https://github.com/martinjrrr/Linux.dots/assets/91160845/03247de1-ff2f-49fe-8947-ad50fa507f81)
 
