@@ -147,8 +147,17 @@ paste the following text and save the file
     set -e
     exec grub-mkconfig -o /boot/grub/grub.cfg "$@"
 
+afterwards execute these two commands: 
 
+    sudo chown root:root /usr/sbin/update-grub &&
+    sudo chmod 755 /usr/sbin/update-grub
 
+Now you should be able to run the command `update-grub` to update your grub config
+
+If we now want to add Windows to our Grub bootloader for example, we would run: 
+    
+    sudo os-prober &&
+    update-grub
 
 _____________________________________________________________________________________
 
