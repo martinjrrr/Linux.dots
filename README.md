@@ -124,6 +124,33 @@ If you want to modify my given example navigate to the Startpage generator and f
 
 _____________________________________________________________________________________
 
+# Adding other OS to Grub Bootloader 
+
+Open the grub config in your Text editor of choice: 
+
+`kate /etc/default/grub`
+uncomment "GRUB_DISABLE_OS_PROBER=false" and save the file
+
+Create a file in the path "/usr/sbin/" this will be a shell script to update grub with
+
+`cd /usr/sbin/`
+
+`touch update-grub`
+
+open the file with your text editor of choice:
+
+`kate update-grub`
+
+paste the following text and save the file
+    
+    #!/bin/sh
+    set -e
+    exec grub-mkconfig -o /boot/grub/grub.cfg "$@"
+
+
+
+
+_____________________________________________________________________________________
 
 # Configuring Konsole and Grub Bootloader Menu
 
